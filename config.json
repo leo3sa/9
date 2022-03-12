@@ -1,0 +1,10 @@
+{
+    "token": "OTUxODg3NTYwODE5NDkwODY2.YiuAXw.je7OAl6ZqFpbUAGaocpiAeT2bEg",
+    "prefix": "$",
+    "status": "Dev by 2$py#6212",
+    "suburl": {},
+    "scripts": {
+        "start": "node index.js"
+    }
+    
+}
